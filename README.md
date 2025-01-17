@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 My name is Rafael.  
-I'm a passionate brazilian developer.  
-Currently at my last year in university.  
+I'm a passionate brazilian developer.
+My main focus is Data Science, but I also have abilities in Fullstack Development
 
  ## Git Stats:
 
